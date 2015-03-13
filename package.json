@@ -1,0 +1,15 @@
+{
+  "name": "karma-bugsnag",
+  "version": "0.0.1",
+  "description": "karma bugsnag",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "karma",
+    "bugsnag"
+  ],
+  "author": "",
+  "license": "MIT"
+}
